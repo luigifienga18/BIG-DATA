@@ -1,4 +1,5 @@
-# DAWS: Dialect-Aware Warning System
+# PARLA CHIARO: A Dialect-Aware Misunderstanding Alert System 
+
 
 This repository contains the complete implementation and documentation for **DAWS (Dialect-Aware Warning System)**, a Master's degree project developed for the **Big Data** course at the Università degli Studi di Napoli Federico II.
 
